@@ -1,5 +1,5 @@
-**Decentralized Voting System with DApp
-**
+Decentralized Voting System with DApp
+
 This project is a decentralized voting system built using blockchain technology. It allows users to vote securely and transparently using a smart contract deployed on the Ethereum blockchain. The system ensures that votes are immutable and verifiable by leveraging the security features of blockchain technology.
 
 Table of Contents
@@ -37,3 +37,8 @@ npm or yarn
 MetaMask browser extension
 Installation Steps
 Clone the repository:
+bash```
+git clone https://github.com/hello4r1end/Decentralized-Voting-System-With-Dapp-.git
+cd Decentralized-Voting-System-With-Dapp-
+```
+
