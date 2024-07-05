@@ -1,0 +1,2 @@
+dist/win-unpacked/VotingWeb3.exe filter=lfs diff=lfs merge=lfs -text
+dist/win-unpacked/resources/app.asar filter=lfs diff=lfs merge=lfs -text
