@@ -10,8 +10,7 @@ This project is a decentralized voting system built using blockchain technology.
 # Usage
 # Smart Contract
 # imitations and Future Work
-# Contributors
-# License
+
 
 # Introduction
 
@@ -90,14 +89,19 @@ Voting:
 
 Select a candidate and cast your vote.
 View real-time voting results.
-Smart Contract
+# Smart Contract
 The smart contract is written in Solidity and handles the core logic of the voting system. It includes functionalities such as:
 
 Adding candidates
+
 Voting for a candidate
+
 Resetting the election
+
 Counting votes
+
 Key Smart Contract Methods
+
 ~addCandidates(string[] memory candidateNames): Allows the admin to add new candidates.
 
 ~vote(uint index): Allows a user to vote for a candidate by index.
