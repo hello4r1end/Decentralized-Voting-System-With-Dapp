@@ -2,15 +2,6 @@
 
 This project is a decentralized voting system built using blockchain technology. It allows users to vote securely and transparently using a smart contract deployed on the Ethereum blockchain. The system ensures that votes are immutable and verifiable by leveraging the security features of blockchain technology.
 
-# Table of Contents
-# Introduction
-# Features
-# Technologies Used
-# Setup and Installation
-# Usage
-# Smart Contract
-# imitations and Future Work
-
 
 # Introduction
 
